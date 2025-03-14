@@ -1,2 +1,2 @@
-# Quantized_nano_GPT-PoT-
+# Quantized (PoT) nano_GPT
 Quantized version of nano_GPT (https://github.com/karpathy/nanoGPT)
